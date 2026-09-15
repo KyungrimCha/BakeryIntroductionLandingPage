@@ -1,0 +1,10 @@
+{
+  "description": "Showcase local bakeries with an engaging landing page that highlights their offerings, ambiance, and unique features to attract customers.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
